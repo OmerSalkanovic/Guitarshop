@@ -1,0 +1,21 @@
+html,body{
+    width: 100%;
+}
+
+.jumbotron, .album{
+    background-color:  rgba(0,0,0,0.7);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card{
+    background-color: transparent;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+.card-deck{
+    margin: 2.25rem 0;
+    font-family: 'Courier New', Courier, monospace;
+
+}

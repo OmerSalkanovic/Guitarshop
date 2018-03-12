@@ -1,0 +1,30 @@
+#radno{
+    max-height: 30rem;
+    min-width: 100%;
+    box-shadow: #333 -0.5rem -0.5rem;
+}
+
+p.lead{
+    margin-top: 0.5rem;
+}
+
+footer, p.lead{
+    background-color:rgba(0,0,0,0.7);
+}
+
+footer div{
+    display: inline-block;
+}
+
+.media{
+    position: absolute;
+    left: 100%;
+    transform: translate(-100%,-100%);
+    padding: 0 2.125rem;
+}
+
+i{
+    margin: 0 0.5rem;
+}
+
+

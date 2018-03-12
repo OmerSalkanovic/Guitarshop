@@ -1,0 +1,38 @@
+html,body{
+    width: 100%;
+    background-image: url('../images/background.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    filter:grayscale(50%);
+}
+
+h3.masthead-brand, .sredina, .createdBy{
+    filter: none;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.chosen{
+    filter:none;
+    background-color:rgba(206, 69, 69, 0.75);
+    border-radius: 0.2rem;
+    color:#fff;
+    margin: 1rem;
+    box-shadow: #aaa 1px 1px;
+    
+}
+
+.not-chosen{
+    background-color:rgba(255, 255, 255, 0.75);
+    border-radius: 0.2rem;
+    color:#000; 
+    margin: 1rem;
+}
+
+.nav-link{
+    filter:none;
+    color: red;
+    font-weight: bold;
+}
